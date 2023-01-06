@@ -1,6 +1,7 @@
 # NeuroStartUp
 ![](https://netology-code.github.io/git-homeworks/introduction/assets/logo.png)
 *NeuroStartUp* - динамически развивающийся стартап, специализирующийся на поиске с использованием новейших технологий искусственного ителлекта.
+
 Наши преимущества:
 * Высокая точность поиска
 * Высокая скорость поиска
@@ -12,8 +13,10 @@
 3. Космопорт «Черезтерновый Кзвёздный»
 4. Дизайн-студия имени Слишком Известного Персонажа
 
-Ниже пример кода из нашего приложения:
-.selector {  <br>
-font-family: "Awesome", Arial, sans-serif  <br>
-color: red;  <br>
+Ниже пример кода из нашего приложения:  <br>
+```css
+.selector {
+font-family: "Awesome", Arial, sans-serif
+color: red;
 }
+```
